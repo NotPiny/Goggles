@@ -1,0 +1,174 @@
+! name: No AI Nuclear
+! description: Aggressively discards ANY site that may contain AI content
+! public: false
+! author: Custom
+
+! =====================================================
+! AI IMAGE GENERATORS & GALLERIES
+! =====================================================
+midjourney.com$discard
+civitai.com$discard
+lexica.art$discard
+playground.ai$discard
+openart.ai$discard
+prompthero.com$discard
+dreamstudio.ai$discard
+nightcafe.studio$discard
+starryai.com$discard
+craiyon.com$discard
+deepai.org$discard
+hotpot.ai$discard
+pixai.art$discard
+tensor.art$discard
+seaart.ai$discard
+leonardo.ai$discard
+getimg.ai$discard
+picso.ai$discard
+neural.love$discard
+wombo.art$discard
+artbreeder.com$discard
+runwayml.com$discard
+invoke.ai$discard
+dezgo.com$discard
+mage.space$discard
+clipdrop.co$discard
+photosonic.ai$discard
+imagine.art$discard
+bluewillow.ai$discard
+firefly.adobe.com$discard
+bing.com/create$discard
+designer.microsoft.com$discard
+ideogram.ai$discard
+kaiber.ai$discard
+pika.art$discard
+genmo.ai$discard
+synthesia.io$discard
+d-id.com$discard
+heygen.com$discard
+
+! =====================================================
+! MIXED CONTENT PLATFORMS (may have legit content)
+! =====================================================
+deviantart.com$discard
+artstation.com$discard
+pinterest.com$discard
+pin.it$discard
+behance.net$discard
+dribbble.com$discard
+flickr.com$discard
+tumblr.com$discard
+reddit.com/r/midjourney$discard
+reddit.com/r/StableDiffusion$discard
+reddit.com/r/AIArt$discard
+reddit.com/r/dalle2$discard
+
+! =====================================================
+! STOCK SITES (all have AI content now)
+! =====================================================
+shutterstock.com$discard
+stock.adobe.com$discard
+istockphoto.com$discard
+gettyimages.com$discard
+123rf.com$discard
+rawpixel.com$discard
+vecteezy.com$discard
+vectorstock.com$discard
+dreamstime.com$discard
+depositphotos.com$discard
+alamy.com$discard
+freepik.com$discard
+pexels.com$discard
+unsplash.com$discard
+pixabay.com$discard
+canva.com$discard
+picsart.com$discard
+fotor.com$discard
+
+! =====================================================
+! AI TEXT CONTENT FARMS
+! =====================================================
+countylocalNews.com$discard
+historyfact.in$discard
+harmonyhustle.com$discard
+bestbudgetusa.com$discard
+wavefunction.info$discard
+celebritiesdeaths.com$discard
+scoopearth.com$discard
+filthylucre.com$discard
+thetechedvocate.org$discard
+zleague.gg$discard
+
+! =====================================================
+! AI WRITING TOOLS & OUTPUT
+! =====================================================
+writesonic.com$discard
+jasper.ai$discard
+copy.ai$discard
+rytr.me$discard
+wordai.com$discard
+articleforge.com$discard
+kafkai.com$discard
+contentbot.ai$discard
+smodin.io$discard
+quillbot.com$discard
+hyperwriteai.com$discard
+writecream.com$discard
+peppertype.ai$discard
+anyword.com$discard
+closerscopy.com$discard
+scalenut.com$discard
+frase.io$discard
+neuraltext.com$discard
+aiseo.ai$discard
+textcortex.com$discard
+cohesive.so$discard
+sudowrite.com$discard
+novelai.net$discard
+jenni.ai$discard
+moonbeam.ai$discard
+
+! =====================================================
+! AI SEARCH/CHAT ENGINES
+! =====================================================
+perplexity.ai$discard
+you.com$discard
+phind.com$discard
+kagi.com$discard
+claude.ai$discard
+chatgpt.com$discard
+character.ai$discard
+c.ai$discard
+gemini.google.com$discard
+lumo.proton.me$discard
+
+! =====================================================
+! General AI Topic
+! =====================================================
+huggingface.co$discard
+
+! =====================================================
+! AI TOOL DIRECTORIES
+! =====================================================
+futurepedia.io$discard
+theresanaiforthat.com$discard
+topai.tools$discard
+aitoptools.com$discard
+aitools.fyi$discard
+
+! =====================================================
+! AI CODE/APP GENERATORS
+! =====================================================
+lovable.app$discard
+lovable.dev$discard
+bolt.new$discard
+v0.dev$discard
+replit.com$discard
+cursor.sh$discard
+
+! =====================================================
+! PROMPT MARKETPLACES
+! =====================================================
+promptbase.com$discard
+prompthunt.com$discard
+krea.ai$discard
+arthub.ai$discard
