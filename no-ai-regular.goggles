@@ -1,0 +1,79 @@
+! name: No AI Regular
+! description: Only blocks sites explicitly dedicated to AI-generated content
+! public: false
+! author: Custom
+
+! =====================================================
+! DEDICATED AI IMAGE GENERATORS
+! =====================================================
+midjourney.com$discard
+civitai.com$discard
+lexica.art$discard
+openart.ai$discard
+prompthero.com$discard
+dreamstudio.ai$discard
+nightcafe.studio$discard
+starryai.com$discard
+craiyon.com$discard
+pixai.art$discard
+tensor.art$discard
+seaart.ai$discard
+leonardo.ai$discard
+getimg.ai$discard
+picso.ai$discard
+neural.love$discard
+wombo.art$discard
+artbreeder.com$discard
+dezgo.com$discard
+mage.space$discard
+photosonic.ai$discard
+imagine.art$discard
+bluewillow.ai$discard
+ideogram.ai$discard
+playground.ai$discard
+kaiber.ai$discard
+pika.art$discard
+genmo.ai$discard
+
+! =====================================================
+! AI VIDEO GENERATORS
+! =====================================================
+synthesia.io$discard
+d-id.com$discard
+heygen.com$discard
+runwayml.com$discard
+
+! =====================================================
+! DEDICATED AI TEXT GENERATORS
+! =====================================================
+writesonic.com$discard
+jasper.ai$discard
+copy.ai$discard
+rytr.me$discard
+articleforge.com$discard
+kafkai.com$discard
+novelai.net$discard
+sudowrite.com$discard
+
+! =====================================================
+! PROMPT MARKETPLACES & AI ART HUBS
+! =====================================================
+promptbase.com$discard
+prompthunt.com$discard
+krea.ai$discard
+arthub.ai$discard
+
+! =====================================================
+! AI TOOL DIRECTORIES
+! =====================================================
+futurepedia.io$discard
+theresanaiforthat.com$discard
+topai.tools$discard
+aitoptools.com$discard
+
+! =====================================================
+! KNOWN AI CONTENT FARM DOMAINS
+! =====================================================
+countylocalNews.com$discard
+celebritiesdeaths.com$discard
+scoopearth.com$discard
